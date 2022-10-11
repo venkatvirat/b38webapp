@@ -27,3 +27,4 @@ ll -la
 git config --list
 hostname Buildserver
 sudo su -
+ll -d
